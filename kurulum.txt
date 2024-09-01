@@ -1,0 +1,6 @@
+terminalı açıp "npm i" yazarsanız tüm gerekli dosyalar inecektir.
+ardından "npm run dev" yaparsanız projemiz açılır gelen linkten bakabilirsiniz siteye.
+projeyi ücretsiz host edebileceğiniz siteler
+
+1-Netlify
+2-Vercel
