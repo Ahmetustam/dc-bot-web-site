@@ -1,10 +1,15 @@
+# İlgili Görseller
+
+![dc-bot-web-site vercel app_Commands (1)](https://github.com/user-attachments/assets/49501ff1-c186-4212-8999-f583a9985fe3)
+
+![dc-bot-web-site vercel app_Commands](https://github.com/user-attachments/assets/7c7cbc98-7cbd-4f4b-b6bc-45fe84f0ccc8)
+![dc-bot-web-site vercel app_](https://github.com/user-attachments/assets/7ea034f3-7e2d-435e-97a2-462cb6ea2a2f)
+
 <hr>
 
 Beğenirseniz Starlamayı Unutmayın. <br>
 Don't forget to give a star if you like it.
 
-Social Media
-discord = discord.gg/bilgisayar
 
 <hr>
 
