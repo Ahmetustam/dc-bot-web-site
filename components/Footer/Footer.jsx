@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center mb-6">
           <div className="flex items-center mb-4 md:mb-0">
             <img src="/images/bot.png" alt="Logo" className="h-12 w-12 mr-3" />
-            <span className="text-2xl font-bold">PlusBot</span>
+            <span className="text-2xl font-bold">Maviro</span>
           </div>
           <div className="flex space-x-6">
             <a href="https://discord.com" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-400">
