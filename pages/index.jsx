@@ -53,7 +53,7 @@ export default function Home() {
           <div className="md:flex flex flex-wrap text-center justify-between items-center">
             <div className="w-[600px] h-[300px] relative">
               <Image
-                alt="PlusBot Background"
+                alt="Maviro Background"
                 src={"/images/pb-bg.png"}
                 fill
                 className="rounded-xl shadow-lg"
@@ -89,60 +89,6 @@ export default function Home() {
             <p className="w-[330px] text-gray-400 font-semibold">
 özellik
             </p>
-          </div>
-        </div>
-
-        <div className="mt-20 bg-gray-800 p-10 rounded-lg shadow-lg" data-aos="fade-up">
-          <h2 className="text-3xl font-bold text-white text-center mb-6">Özellikler</h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-10 text-center">
-            <div className="bg-gray-700 p-6 rounded-lg shadow-md" data-aos="flip-left">
-              <h3 className="text-xl font-semibold text-yellow-300">Kolay Kullanım</h3>
-              <p className="text-white mt-2">Kullanıcı dostu arayüz ile kolayca botunuzu yönetin.</p>
-            </div>
-            <div className="bg-gray-700 p-6 rounded-lg shadow-md" data-aos="flip-left">
-              <h3 className="text-xl font-semibold text-yellow-300">Güvenlik</h3>
-              <p className="text-white mt-2">Sunucunuzu korumak için gelişmiş güvenlik özellikleri.</p>
-            </div>
-            <div className="bg-gray-700 p-6 rounded-lg shadow-md" data-aos="flip-left">
-              <h3 className="text-xl font-semibold text-yellow-300">Özelleştirilebilir</h3>
-              <p className="text-white mt-2">Botunuzu ihtiyaçlarınıza göre özelleştirin.</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="mt-20 bg-gray-900 p-10 rounded-lg shadow-lg" data-aos="fade-up">
-          <h2 className="text-3xl font-bold text-white text-center mb-6">Kullanıcı Yorumları</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 text-center">
-            <div className="bg-gray-800 p-6 rounded-lg shadow-md" data-aos="zoom-in">
-              <p className="text-white mt-2">"Maviro sayesinde sunucum çok daha güvenli ve yönetimi kolaylaştı!"</p>
-              <p className="text-yellow-300 mt-2">- Kullanıcı 1</p>
-            </div>
-            <div className="bg-gray-800 p-6 rounded-lg shadow-md" data-aos="zoom-in">
-              <p className="text-white mt-2">"Harika özellikler ve mükemmel destek ekibi. Kesinlikle tavsiye ederim!"</p>
-              <p className="text-yellow-300 mt-2">- Kullanıcı 2</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="mt-20 bg-gray-800 p-10 rounded-lg shadow-lg" data-aos="fade-up">
-          <h2 className="text-3xl font-bold text-white text-center mb-6">Sıkça Sorulan Sorular</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 text-center">
-            <div className="bg-gray-700 p-6 rounded-lg shadow-md" data-aos="flip-right">
-              <h3 className="text-xl font-semibold text-yellow-300">Maviro nedir?</h3>
-              <p className="text-white mt-2">Maviro, sunucunuzu yönetmenize yardımcı olan güçlü bir Discord botudur.</p>
-            </div>
-            <div className="bg-gray-700 p-6 rounded-lg shadow-md" data-aos="flip-right">
-              <h3 className="text-xl font-semibold text-yellow-300">Nasıl kurulur?</h3>
-              <p className="text-white mt-2">Maviro'yu sunucunuza eklemek için "Sunucuna Ekle" butonuna tıklayın ve talimatları izleyin.</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="mt-20 bg-gray-900 p-10 rounded-lg shadow-lg" data-aos="fade-up">
-          <h2 className="text-3xl font-bold text-white text-center mb-6">İletişim</h2>
-          <div className="text-center">
-            <p className="text-white">Sorularınız veya geri bildirimleriniz için bizimle iletişime geçin:</p>
-            <p className="text-yellow-300 mt-2">eposta</p>
           </div>
         </div>
       </div>
